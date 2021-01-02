@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-valarini-de-paula-rodrigues-554899181//">
-        <img alt="My linkedin" src="https://img.shields.io/badge/">
+        <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Pedro-blue">
     </a>
     <a href="https://mail.google.com/">
         <img alt="Email" src="https://img.shields.io/badge/My-Email-red">
