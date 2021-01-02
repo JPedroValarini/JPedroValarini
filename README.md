@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome to my github! I'm João Pedro!
 
-<!--
-**JPedroValarini/JPedroValarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-valarini-de-paula-rodrigues-554899181//">
+        <img alt="My linkedin" src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Rafael-blue">
+    </a>
+    <a href="https://mail.google.com/">
+        <img alt="Email" src="https://img.shields.io/badge/My-Email-red">
+    </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Meu nome é **João Pedro** Tenho 30 anos formado em Análise e Desenvolvimento de Sistemas. 
+
+Sou Desenvolvedor Web, programador full-stack **Ruby on Rails** e **React.js**<br>
+
+## Estatísticas
+
+<p align = "center">
+  <a href="https://github.com/joaorceschini/">
+    <img src="https://github-readme-stats.vercel.app/api?username=JPedroValarini&show_icons=true&theme=react&line_height=27">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroValarini&layout=compact&theme=react">
+  </a>
+</p>
