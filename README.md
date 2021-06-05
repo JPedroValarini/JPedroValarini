@@ -12,7 +12,7 @@
 
 Olá! Meu nome é **João Pedro** Tenho 30 anos formado em Análise e Desenvolvimento de Sistemas :computer: . 
 
-Sou Desenvolvedor Web, programador full-stack **Ruby on Rails** e **React.js**<br>
+Sou Desenvolvedor Web <br>
 
 ## Estatísticas
 
