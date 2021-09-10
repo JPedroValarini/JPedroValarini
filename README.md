@@ -10,7 +10,7 @@
 </p>
 
 
-Olá! Meu nome é **João Pedro** Tenho 30 anos formado em Análise e Desenvolvimento de Sistemas :computer: . 
+Olá! Meu nome é **João Pedro** sou formado em Análise e Desenvolvimento de Sistemas :computer: . 
 
 Sou Desenvolvedor Web <br>
 
