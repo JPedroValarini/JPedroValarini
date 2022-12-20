@@ -10,9 +10,9 @@
 </p>
 
 
-Olá! Meu nome é **João Pedro** sou formado em Análise e Desenvolvimento de Sistemas :computer: . 
+Olá! Sou o **João Pedro** formado em Análise e Desenvolvimento de Sistemas :computer: . 
 
-Sou Desenvolvedor Web <br>
+Desenvolvedor Web <br>
 
 ## Estatísticas
 
